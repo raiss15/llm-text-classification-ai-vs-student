@@ -48,7 +48,7 @@ streamlit run streamlit_llm_demo_final.py
 This project is licensed under the MIT License.
 
 ## 👩‍💻 Author
-# Sohni Rais
+Sohni Rais
 Graduate Student, M.S. in Information Systems
 Northeastern University, Boston
 
