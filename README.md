@@ -31,10 +31,15 @@ streamlit run streamlit_llm_demo_final.py
 ## 🎨 Streamlit Web App Features
 
 ✍️ Paste any paragraph → AI predicts "AI" or "Student"
+
 🔍 Shows confidence score from softmax output
+
 🧑‍🏫 Intuitive design with emoji feedback
+
 📘 Sidebar: dataset info, model overview, credits
+
 ✅ Easy to run or deploy via Streamlit Cloud
+
 
 ## 🔬 Future Enhancements
 
