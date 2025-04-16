@@ -49,6 +49,8 @@ This project is licensed under the MIT License.
 
 ## 👩‍💻 Author
 Sohni Rais
+
 Graduate Student, M.S. in Information Systems
+
 Northeastern University, Boston
 
